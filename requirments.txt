@@ -13,4 +13,16 @@ psycopg[binary]
 pypdf
 streamlit
 google-generativeai
+langgraph
+langchain
+langchain_community
+langchainhub
+langchain_groq
+ipykernel
+tiktoken
+langchain-openai
+chromadb
+langchain-text-splitters
+langchain_huggingface
+sentence_transformers
 
